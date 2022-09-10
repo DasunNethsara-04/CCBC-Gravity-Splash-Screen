@@ -1,5 +1,10 @@
 ATTENTION!!! 
 
+Install this module ("Pillow") before you run the program. It is a required module to execute the program. Open Command Prompt and type the command below, then press Enter.
+
+pip install pillow
+
+
 
 First of all, you need to specify the main application’s exe file to launch! And install fonts. To do it follow all of these instructions.
 
